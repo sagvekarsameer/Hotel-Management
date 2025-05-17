@@ -72,3 +72,14 @@ Note: This project uses Maven Archetype, not a standalone WAR file.
 
 We successfully developed a working hotel management system simulating real-world use cases. 
 The project enhanced our understanding of Java web technologies and team collaboration in a distributed development environment.
+
+
+# images
+Admin Module
+![image](https://github.com/user-attachments/assets/9cc025fe-4a0e-4411-8250-001955487fc3)
+![image](https://github.com/user-attachments/assets/029db3aa-531b-4413-bfda-20910b561cfb)
+
+User Module
+![image](https://github.com/user-attachments/assets/999fca93-7981-40a9-b2dc-36188a9190ec)
+![image](https://github.com/user-attachments/assets/6513fe75-d8e4-445c-999c-e27856cdc137)
+![image](https://github.com/user-attachments/assets/0b6576cd-016e-4edb-ae6a-8aba2e07d1c8)
